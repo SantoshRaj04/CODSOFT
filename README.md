@@ -2,27 +2,27 @@
 
 This repository contains the C++ programming tasks completed as part of the CodSoft Internship.
 
-## Tasks Completed
+## Tasks
 
 ### Task 1 - Number Guessing Game
-- Generates a random number.
-- User guesses until the correct number is found.
-- Provides hints (Too High / Too Low).
+- Random number generation
+- User guesses until correct
+- Hint messages (Too High / Too Low)
 
 ### Task 2 - Simple Calculator
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Handles division by zero.
+- Division by zero handling
 
 ### Task 3 - Tic-Tac-Toe Game
-- Two-player console game.
-- Checks for win and draw.
-- Displays the game board after every move.
+- Two-player console game
+- Win and draw detection
+- Interactive game board
 
 ## Language
 - C++
 
-## Developed by
+## Author
 Santosh Raj T A
